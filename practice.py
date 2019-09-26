@@ -1,1 +1,1 @@
-flavors
+flavors =
