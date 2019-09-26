@@ -1,1 +1,1 @@
-flavors = {"banana
+flavors = {"banana"
