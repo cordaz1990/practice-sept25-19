@@ -1,1 +1,1 @@
-flavo
+flavor
